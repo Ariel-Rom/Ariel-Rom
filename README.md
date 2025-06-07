@@ -1,7 +1,7 @@
 
 # Hello There, I'm Ariel! 👋
 
-● I'm a backend developer from [Corrientes, Argentina] 🇦🇷.
+● I'm a backend developer from Corrientes, Argentina.
 
 
 [![Gmail Badge](https://img.shields.io/badge/-AugusNorAr@Gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:AugusNorAr@gmail.com)](mailto:AugusNorAr@Gmail.com) 
