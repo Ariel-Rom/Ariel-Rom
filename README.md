@@ -31,4 +31,4 @@
 
 ![Ariel-Rom's Stats](https://github-readme-stats.vercel.app/api?username=Ariel-Rom&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+
