@@ -9,6 +9,7 @@
 [![linkedin Badge](https://img.shields.io/badge/Linkedin:%20Ariel%20Romero-0A66C2?style=for-the-social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielrom/)
 
 ## 🛠 Skills
+
 ● Java.
 
 ● Spring.
@@ -20,10 +21,6 @@
 ● MongoDB.
 
 ● Redis
-
-● PHP.
-
-● Laravel.
 
 ● Git
 
