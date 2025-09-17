@@ -2,10 +2,11 @@
 
 # Hello World! 👋, I'm Ariel
 
-👨‍💻 Backend Developer focused on building robust, secure, and scalable APIs with Java & Spring.  
+👨‍💻 Backend Developer focused on building robust, secure, and scalable APIs with Java & Spring.
+Also a QA Analyst comitted to continuous learning.
  I live in Corrientes, Argentina.
 
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AugusNorAr@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ArielRom.Dev@Gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielrom/)
 
 </div>
@@ -33,7 +34,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-
 
 
 ---
