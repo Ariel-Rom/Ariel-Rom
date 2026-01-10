@@ -3,8 +3,7 @@
 # Hello World! 👋, I'm Ariel
 
 👨‍💻 Backend Developer focused on building robust, secure, and scalable APIs with Java & Spring.
-Also a QA Analyst comitted to continuous learning.
- I live in Corrientes, Argentina.
+ I live in Tortuguitas, Buenos Aires Argentina.
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ArielRom.Dev@Gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielrom/)
