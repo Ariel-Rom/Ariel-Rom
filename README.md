@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 Skills
+### 🧠 Habilidades
 
 #### Lenguajes y Frammeworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -41,7 +41,7 @@
 
 <div align="right">
   
-##### 🎮 For fun and downtime
+##### 🎮 Para jugar...
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/LeiRa27/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/i49xcyvk9rz34z5w6aasu3lz2?si=3JxblakxSvOgdBYfUHxmzQ)
