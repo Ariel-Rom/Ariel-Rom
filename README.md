@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hello World! 👋, I'm Ariel
+# Hola, Mundo! 👋, Soy Ariel
 
-👨‍💻 Backend Developer focused on building robust, secure, and scalable APIs with Java & Spring.
- I live in Tortuguitas, Buenos Aires Argentina.
+👨‍💻 Soy un desarrollador Back-End en constante aprendizaje, actualmente estoy trabajando con Java y Spring Boot.
+ Vivo en Tortuguitas, Buenos Aires Argentina.
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ArielRom.Dev@Gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielrom/)
@@ -14,21 +14,21 @@
 
 ### 🧠 Skills
 
-#### Languages & Frameworks  
+#### Lenguajes y Frammeworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-#### Databases  
+#### Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### Tools & DevOps  
+#### Herramientas y DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-#### 📚 Currently learning...
+#### 📚 Actualmente aprendiendo...
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
