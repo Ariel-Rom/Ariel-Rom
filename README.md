@@ -46,9 +46,9 @@
 
 ---
 
-## 🚀 Proyectos destacados
+### Proyectos destacados
 
-### 🏨 Booking Hotel API
+## Booking Hotel API
 API REST para gestión de reservas hoteleras.
 
 Tecnologías:
@@ -69,7 +69,7 @@ Características:
 
 <div align="right">
   
-##### 🎮 Para jugar...
+#### 🎮 Para jugar...
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/LeiRa27/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/i49xcyvk9rz34z5w6aasu3lz2?si=3JxblakxSvOgdBYfUHxmzQ)
