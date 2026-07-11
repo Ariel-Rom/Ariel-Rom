@@ -8,7 +8,6 @@
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ArielRom.Dev@Gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielrom/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ariel.romero_/)
 
 </div>
 
@@ -16,7 +15,7 @@
 
 ### 🧠 Habilidades
 
-#### Lenguajes y Frammeworks
+#### Lenguajes y Frameworks
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](#)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -40,8 +39,6 @@
 
 #### 📚 Actualmente aprendiendo...
 
-[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](#)
-[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=fff)](#)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -49,6 +46,25 @@
 
 ---
 
+## 🚀 Proyectos destacados
+
+### 🏨 Booking Hotel API
+API REST para gestión de reservas hoteleras.
+
+Tecnologías:
+- Java 17
+- Spring Boot
+- MariaDB
+- RestClient
+- JPA/Hibernate
+
+Características:
+- Integración con API externa de hoteles
+- Gestión de reservas
+- Persistencia de datos
+- Arquitectura por capas
+
+---
 
 
 <div align="right">
