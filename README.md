@@ -1,9 +1,10 @@
 <div align="center">
 
-# Hola, Mundo! 👋, Soy Ariel
+# Hola Mundo!, me llamo Ariel.
 
-👨‍💻 Soy un desarrollador Back-End en constante aprendizaje, actualmente estoy trabajando con Java y Spring Boot.
- Vivo en Tortuguitas, Buenos Aires Argentina.
+ Actualmente estoy estudiando Desarrollo de Software en la Universidad Nacional de Pilar.
+ De manera Autodidacta estoy desarrollando mis habilidades en Java y Spring boot, tengo algunos proyectos back-end realizados que se puede ver en mi repo.
+ Vivo en Tortuguitas, Buenos Aires.
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ArielRom.Dev@Gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielrom/)
@@ -19,7 +20,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 #### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-4479A1?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Herramientas y DevOps
