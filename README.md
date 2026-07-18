@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola Mundo!, me llamo Ariel.
+# Hola!. Mi nombre es Ariel.
 
  Actualmente estoy estudiando Desarrollo de Software en la Universidad Nacional de Pilar.
  De manera Autodidacta estoy desarrollando mis habilidades en Java y Spring boot, tengo algunos proyectos back-end realizados que se puede ver en mi repo.
@@ -54,6 +54,7 @@ API REST para gestión de reservas hoteleras.
 Tecnologías:
 - Java 17
 - Spring Boot
+- Spring Security
 - MariaDB
 - RestClient
 - JPA/Hibernate
